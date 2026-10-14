@@ -242,5 +242,4 @@ with st.expander("📈 10. GRÁFICOS E MAPAS (Visualização de Dados)", expande
         })
         st.map(dados_mapa)
 
-st.write("Fim da Apostila Interativa")
-Exibindo Apostila Streamlit.py…
+st.write("Fim da Apostila Interativa"
